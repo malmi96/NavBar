@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "55351329888",
+    "firebase_url": "https://trojensedu-22e5a.firebaseio.com",
+    "project_id": "trojensedu-22e5a",
+    "storage_bucket": "trojensedu-22e5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55351329888:android:50e1a229836a52ab0b2f05",
+        "android_client_info": {
+          "package_name": "com.example.trojans_navbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55351329888-mm2bl3b5j5vi76eo95k4jt0k0tkc961n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWdpF5GYTdL3kN0E7gYDIgjioDvo4EUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55351329888-mm2bl3b5j5vi76eo95k4jt0k0tkc961n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55351329888:android:6a97841c41cacefd0b2f05",
+        "android_client_info": {
+          "package_name": "com.example.trojens_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55351329888-mm2bl3b5j5vi76eo95k4jt0k0tkc961n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWdpF5GYTdL3kN0E7gYDIgjioDvo4EUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55351329888-mm2bl3b5j5vi76eo95k4jt0k0tkc961n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55351329888:android:3b1abe749cbec67a0b2f05",
+        "android_client_info": {
+          "package_name": "com.example.trojensedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55351329888-mm2bl3b5j5vi76eo95k4jt0k0tkc961n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWdpF5GYTdL3kN0E7gYDIgjioDvo4EUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55351329888-mm2bl3b5j5vi76eo95k4jt0k0tkc961n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
